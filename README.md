@@ -1,10 +1,11 @@
 # Readme.me 
+
 This repository contains two project files
 
 ### scikit-learn.ipynb
 
 This notebook file uses the  scikit-learn algorithms.
-library used in this files are
+The library used in this files are
 
 ### Numerical arrays.
 import numpy as np
