@@ -24,6 +24,11 @@ from sklearn.gaussian_process import GaussianProcessClassifier
 from sklearn.gaussian_process.kernels import RBF
 from sklearn import datasets
 
+# implemented following three algorithms
+# 1. K-Means clustering on the handwritten digits data
+# 2. Linear Regression
+# 3. Random Forest: Feature importances with a forest of trees
+
 # scipy-stats.ipynb
 
 This notebook file uses the  scipy-stats python library.
